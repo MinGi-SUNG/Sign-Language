@@ -17,8 +17,8 @@ for action in actions:
 DATA_PATH = os.path.join('caps_test')
 
 # actions = np.array(['사람이 갑자기 쓰러졌어요','119 구조대를 불러주세요','구해주세요'])
-# actions = np.array(['112에 신고해주세요','고열','고장','너무 아파요','도와주세요', '물','병원','보건소','신고하세요(경찰)','쓰러지다'])
-actions = np.array(['약국'])
+actions = np.array(['112에 신고해주세요','고열','고장','너무 아파요','도와주세요', '물','병원','보건소','신고하세요(경찰)','쓰러지다'])
+# actions = np.array(['약국'])
 number_sequences = 10
 sequence_length = 50
 
