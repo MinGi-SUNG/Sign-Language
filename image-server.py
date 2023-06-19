@@ -2,7 +2,7 @@ import socket
 import numpy
 import cv2
 
-UDP_IP = "3.39.16.134"
+UDP_IP = '0.0.0.0'
 UDP_PORT = 5000
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
