@@ -57,6 +57,13 @@
 <img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/bafa2619-1e9f-430b-9b0a-0861b75e15a3" height="70%" width="70%">
 
 ## 🏆 프로젝트 결과 정리 🏆
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/538e69d9-d3e5-4b2d-b881-d632b2e02ee1" height="30%" width="30%">
+
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/a881a164-c131-488e-94ac-094ee93beb1d" height="32.2%" width="32.2%"><img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/80faf63e-55f2-4315-86d3-bc635c7fa0e7" height="32.2%" width="32.2%"><img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/761f948b-1937-4c90-aab9-3008d1823a7b" height="32.2%" width="32.2%">
+
+
+
+
 
 
 <!-- # Sign-Language
