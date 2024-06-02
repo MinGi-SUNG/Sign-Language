@@ -28,11 +28,35 @@
   
 ## 📌 주요 기능
 
-#### 시스템 구성도
+### 시스템 구성도
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/73b1529c-2fdc-448c-b169-d409346c614b" height="70%" width="70%">
 
-<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/73b1529c-2fdc-448c-b169-d409346c614b" height="50%" width="50%">
+### 기능 설명
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/54313ac0-7e28-4573-a592-17d6d8449d66" height="70%" width="70%">
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/3bf4a2f0-db81-4916-b248-fb2339123edc" height="70%" width="70%">
 
+### AI 모델 (LSTM)
+- 장단기 기억 모델 LSTM 사용
+- 수어 공공데이터에서 Mediapipe holistic을 활용하여 키포인트 추출 및 한 단어당 100개의 데이터 저장
+- AI 모델 인식률 및 결과 추출
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/16d7bc49-6c5f-4a0d-af3d-39da4c6d7ec3" height="70%" width="70%">
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/dffa1aa0-03b9-4345-ad8a-f9abaac8278c" height="70%" width="70%">
 
+### 수어 애니메이션 생성
+- Mediapipe holistic을 활용하여 키포인트 추출
+- 아바타 모델에 키 포인트 대입
+- Blender를 활용하여 수어 번역 애니메이션 캐릭터 생성
+
+### 수어 특징 분석
+- 한국 수어의 특징 : 수어는 조사와 어미가 존재X (ex, 문제가 너무 어려웠다 -> 문제 + 너무 + 어렵다)
+- 수어 문장 변환
+    - 형태소 분석 후 불필요한 품사 제거
+    - 분류된 단어들과 수어 아바타를 매핑 후 각 단어에 해당하는 아바타의 행동을 한 영상으로 병합
+
+### 애플리케이션 개발
+<img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/bafa2619-1e9f-430b-9b0a-0861b75e15a3" height="70%" width="70%">
+
+## 🏆 프로젝트 결과 정리 🏆
 
 
 <!-- # Sign-Language
