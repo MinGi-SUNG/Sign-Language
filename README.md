@@ -56,6 +56,12 @@
 ### 애플리케이션 개발
 <img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/bafa2619-1e9f-430b-9b0a-0861b75e15a3" height="70%" width="70%">
 
+## 📃 논문 📃
+딥러닝 기반 양방향 수어 번역 시스템(Two-Way Sign Language Translation System Based on Deep Learning)
+
+- https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11485611<br>
+
+
 ## 🏆 프로젝트 결과 정리 🏆
 <img src="https://github.com/MinGi-SUNG/Sign-Language/assets/89721794/538e69d9-d3e5-4b2d-b881-d632b2e02ee1" height="30%" width="30%">
 
